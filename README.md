@@ -1,7 +1,7 @@
 # Space-Invaders
 
 ## Problem
-![2](enunciado.pdf)
+![1](enunciado.pdf)
 
 ## Final Report 
-![1](relatorio.pdf)
+![2](relatorio.pdf)
